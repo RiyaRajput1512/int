@@ -1,0 +1,14 @@
+<div class="main">
+      <div id="text">
+        <h2>About me</h2>
+        <p2
+          >Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam,
+          unde ut nihil quas enim repellat distinctio dignissimos nemo dolores
+          fugiat ratione cupiditate eligendi eum itaque labore veritatis quod
+          deleniti esse?</p2
+        >
+      </div>
+      <div id="im">
+        <img src="dev.png" alt="photo" />
+      </div>
+    </div>
